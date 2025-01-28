@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hii, i'm Stheffany!୨ৎ
+### Hobbies
+- Leitura📚
+- Pintar🖌️
+- Jogar xadrez♟️
 
-<!--
-**stheyx/stheyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Formação
+- Growdev
+- Informatize
+- Alura
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+[![icone python](https://img.icons8.com/?size=70&id=101379&format=png&color=000000)
+](https://www.python.org)
